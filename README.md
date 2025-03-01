@@ -1,2 +1,4 @@
 Qallaysizlar
 yaxshi
+Ha
+
