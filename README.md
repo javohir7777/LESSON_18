@@ -1,4 +1,3 @@
 Qallaysizlar
 yaxshi
 
-zor
